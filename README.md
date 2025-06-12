@@ -8,7 +8,6 @@ This project presents an efficient deep learning solution to the **dog breed cla
 
 The model is designed for high precision, robust generalization, and practical applications in:
 - Pet identification
-- Veterinary diagnostics
 - Animal welfare systems
 
 ---
